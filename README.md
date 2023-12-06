@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-akash-s
 - 👀 I’m interested in programing using Languages like python, C
-- 🌱 I’m currently persuring course in AI 
+- 🌱 I’m currently working as a Data Analyst in Dhitva.
 - 💞️ I’m looking to collaborate on projects based AI and ML
 - 📫 How to reach me mail me at asavalgi3@gmailcom
 
